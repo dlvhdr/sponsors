@@ -4,32 +4,31 @@ on:
   repository_dispatch:
   workflow_dispatch:
   schedule:
-  - cron: '0 * * * *'
+    - cron: "0 * * * *"
 
 jobs:
   insiders:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-    - name: Setup Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.10"
-    - name: Setup uv
-      uses: astral-sh/setup-uv@v1
-    - name: Install dependencies
-      run: uv venv; uv pip install httpx "insiders>=3.0"
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v1
+      - name: Install dependencies
+        run: uv venv; uv pip install httpx "insiders>=3.0"
 
-    - name: Grant/revoke access
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        POLAR_TOKEN: ${{ secrets.PL_TOKEN }}
-      run: .venv/bin/python grant-revoke.py
+      - name: Grant/revoke access
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: .venv/bin/python grant-revoke.py
 
-    # Requires "Read and write permissions" for workflows in Settings - Actions.
-    - name: Commit changes
-      run: |
-        git config --global user.name "Timothée Mazzucotelli"
-        git config --global user.email "pawamoy@users.noreply.github.com"
-        if git commit -am "CI: Update JSON data"; then git push; fi
+      # Requires "Read and write permissions" for workflows in Settings - Actions.
+      - name: Commit changes
+        run: |
+          git config --global user.name "Dolev Hadar"
+          git config --global user.email "dlvhdr@users.noreply.github.com"
+          if git commit -am "CI: Update JSON data"; then git push; fi
