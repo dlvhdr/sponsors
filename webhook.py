@@ -8,7 +8,7 @@ from fastapi import FastAPI, Request
 
 GITHUB_API = "https://api.github.com"
 # permissions: repo
-TRIGGER_WORKFLOW = "/repos/pawamoy/sponsors/dispatches"
+TRIGGER_WORKFLOW = "/repos/dlvhdr/sponsors/dispatches"
 # TRIGGER_WORKFLOW = "/repos/pawamoy/sponsors/actions/workflows/insiders/dispatches"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 COOLDOWN = timedelta(seconds=60)
