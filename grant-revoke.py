@@ -6,70 +6,16 @@ from insiders import GitHub, Polar, update_sponsors_file, update_numbers_file
 
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 POLAR_TOKEN = os.environ["POLAR_TOKEN"]
-TEAM = "pawamoy-insiders/insiders"
+TEAM = "dlvhdr-insiders/insiders"
 MIN_AMOUNT = 10
 
 beneficiaries = {
     "github": {
-        "activeloopai": [
-            {"account": "activeloop-bot", "grant": True},
-            {"account": "nvoxland-al", "grant": True},
-            {"account": "davidbuniat", "grant": True},
-        ],
-        "kolenaIO": [
-            {"account": "kolenabot", "grant": True},
-        ],
-        "livingbio": [
-            {"account": "lucemia", "grant": True},
-        ],
-        "latentai": [
-            {"account": "polloelastico", "grant": True},
-        ],
-        "logfire": [
-            {"account": "samuelcolvin", "grant": True},
-            {"account": "Kludex", "grant": True},
-        ],
-        "NemetschekAllplan": [
-            {"account": "bmarciniec", "grant": True},
-        ],
-        "NyckelAI": [
-            {"account": "beijbom", "grant": True},
-        ],
-        "okio-ai": [
-            {"account": "faradox", "grant": True},
-            {"account": "aaronabebe", "grant": True},
-        ],
-        "RapidataAI": [
-            {"account": "LinoGiger", "grant": True},
-            {"account": "kannwism", "grant": True},
-        ],
-        "tektronix": [
-            {"account": "tek-githubbot-1010", "grant": True},
-            {"account": "nfelt14", "grant": True},
-        ],
-        "theSymbolSyndicate": [
-            {"account": "Wayonb", "grant": True},
-        ],
-        "willmcgugan": [
-            "&Textualize",
-            {"account": "darrenburns", "grant": True},
-            {"account": "willmcgugan", "grant": True},
-        ],
     },
-    "polar": {
-        "patrick91": ["patrick91"],
-        "birkjernstrom": ["birkjernstrom"],
-    }
 }
 
 include_users = {
-    "pawamoy",  # Myself.
-    "squidfunk",  # For their contributions to the MkDocs ecosystem.
-    "facelessuser",  # For their contributions to the MkDocs ecosystem.
-    "waylan",  # For their contributions to the MkDocs ecosystem.
-    "bswck",  # For their contributions to the Python ecosystem.
-    "ZeroIntensity",  # For their contributions to the C handler.
-    "alexvoss",  # Work-related.
+    "dlvhdr",  # Myself.
 }
 
 exclude_users = {

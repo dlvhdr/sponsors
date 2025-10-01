@@ -6,7 +6,7 @@ and a GitHub workflow (pipeline).
 The webhook handler is a FastAPI app
 that receives event payloads emitted by GitHub
 when users subscribe to, or cancel, sponsor tiers
-on my own account (@pawamoy). 
+on my own account (@dlvhdr).
 
 When it receives such an event, it triggers a GitHub workflow,
 which in turn synchronizes sponsors and members
