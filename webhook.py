@@ -64,5 +64,5 @@ workflow = Workflow()
 
 @app.post("/")
 async def handle_webhook(request: Request):
-    logging.info(f"Received webhook event: {await request.json()}")
+    logging.info(f"Received webhook event")
     await workflow.batched_trigger()
