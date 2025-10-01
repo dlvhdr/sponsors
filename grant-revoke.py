@@ -17,8 +17,7 @@ include_users = {
     "dlvhdr",  # Myself.
 }
 
-exclude_users = {
-}
+exclude_users = None
 
 
 def main():
