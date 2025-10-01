@@ -1,3 +1,3 @@
 import httpx
 
-httpx.post("http://localhost:8000", json={"some": "payload"})
+httpx.post("https://gh-dash.dev/webhook", json={"some": "payload"})

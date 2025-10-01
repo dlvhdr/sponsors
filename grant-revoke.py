@@ -6,7 +6,7 @@ from insiders import GitHub, update_sponsors_file, update_numbers_file
 
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
 TEAM = "dlvhdr-insiders/insiders"
-MIN_AMOUNT = 10
+MIN_AMOUNT = 5
 
 beneficiaries = {
     "github": {
