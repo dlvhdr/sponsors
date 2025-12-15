@@ -19,6 +19,7 @@ beneficiaries = {
 
 include_users = {
     "dlvhdr",  # Myself.
+    "meowgorithm"
 }
 
 exclude_users = None
