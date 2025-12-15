@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 
+# https://github.com/pawamoy/insiders-project
 from insiders import GitHub, update_sponsors_file, update_numbers_file
 
 
@@ -10,6 +11,9 @@ MIN_AMOUNT = 5
 
 beneficiaries = {
     "github": {
+        "charmbracelet": [
+            {"account": "meowgorithm", "grant": True}
+        ]
     },
 }
 
