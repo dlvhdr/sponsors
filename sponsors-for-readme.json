@@ -1,0 +1,260 @@
+{
+  "tiers": [
+    {
+      "id": "innovator",
+      "name": "TUI Innovator",
+      "monthly_rate": 25
+    },
+    {
+      "id": "advocate",
+      "name": "TUI Advocate",
+      "monthly_rate": 10
+    },
+    {
+      "id": "power_user",
+      "name": "TUI Power User",
+      "monthly_rate": 5
+    },
+    {
+      "id": "backer",
+      "name": "TUI Backer",
+      "monthly_rate": 1
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Architect",
+      "id": "architect-eng",
+      "source": "github",
+      "website": "https://engineering.tryarchitect.com",
+      "image": "https://avatars.githubusercontent.com/u/179040529?v=4",
+      "tier": "advocate",
+      "monthly_usd": 10
+    },
+    {
+      "name": "Mario Zechner",
+      "id": "badlogic",
+      "source": "github",
+      "website": "https://mariozechner.at",
+      "image": "https://avatars.githubusercontent.com/u/514052?u=86324f7b9775af9867e7135e19213716baaeba59\u0026v=4",
+      "tier": "advocate",
+      "monthly_usd": 10
+    },
+    {
+      "name": "Peter Steinberger",
+      "id": "steipete",
+      "source": "github",
+      "website": "http://steipete.me",
+      "image": "https://avatars.githubusercontent.com/u/58493?u=95a4fccef3d341039661c427695691a664e333ba\u0026v=4",
+      "tier": "advocate",
+      "monthly_usd": 10
+    },
+    {
+      "name": "Alexander Garber",
+      "id": "clockworkpc",
+      "source": "github",
+      "website": "https://alexandergarber.com",
+      "image": "https://avatars.githubusercontent.com/u/9858440?u=3f0f3072d5c4e7ee4c0cd72e5f8ad2edd01033be\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Brend Smits",
+      "id": "Brend-Smits",
+      "source": "github",
+      "website": "https://github.com/Brend-Smits",
+      "image": "https://avatars.githubusercontent.com/u/15904543?u=47f907dfd09a9fa143c8d813a2299ea82df88b42\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Brian Gianforcaro",
+      "id": "bgianfo",
+      "source": "github",
+      "website": "https://bjg.io",
+      "image": "https://avatars.githubusercontent.com/u/1212?u=9af0530b0e65983da61672445f974432cc1ca8ea\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "cdxn",
+      "id": "cdxn",
+      "source": "github",
+      "website": "https://github.com/cdxn",
+      "image": "https://avatars.githubusercontent.com/u/2151520?u=eb74f479693b7f172506e678a169a34ead03796b\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Fernando Becerra Méndez",
+      "id": "Hidetoxin",
+      "source": "github",
+      "website": "https://github.com/Hidetoxin",
+      "image": "https://avatars.githubusercontent.com/u/4011421?u=89f4268038fd8e67d535d23422272b20515a5134\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Ken Sanders",
+      "id": "kenosando",
+      "source": "github",
+      "website": "https://github.com/kenosando",
+      "image": "https://avatars.githubusercontent.com/u/13559092?u=efb2ab2cd3c739182f76876e2e88a369ac71d65b\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Luke Rollans",
+      "id": "lukerollans",
+      "source": "github",
+      "website": "https://rollans.sh",
+      "image": "https://avatars.githubusercontent.com/u/4101096?u=8330a195570652f1bcd39e89bc5571ee41b15386\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Matthew Chisolm",
+      "id": "mchisolm0",
+      "source": "github",
+      "website": "https://github.com/mchisolm0",
+      "image": "https://avatars.githubusercontent.com/u/39521893?u=2ab5b762d1573b0aecc776a30a93cc8ab04fdbad\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Nikolay Kolev",
+      "id": "nikolay",
+      "source": "github",
+      "website": "https://nikolay.com",
+      "image": "https://avatars.githubusercontent.com/u/2882?u=b5278753f2aeee2a074f17c163df9179d3640b03\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Philippe Serhal",
+      "id": "serhalp",
+      "source": "github",
+      "website": "https://philippeserhal.com/",
+      "image": "https://avatars.githubusercontent.com/u/1377702?u=97edad0b41ef9cb95fd1825a62e244e6648c4681\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Ryne Flood",
+      "id": "ryneflood",
+      "source": "github",
+      "website": "https://github.com/ryneflood",
+      "image": "https://avatars.githubusercontent.com/u/1847226?u=ff62cad70c6b582ff729cf6a4cb92999aae1121b\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "SacredTexts",
+      "id": "SacredTexts",
+      "source": "github",
+      "website": "https://github.com/SacredTexts",
+      "image": "https://avatars.githubusercontent.com/u/65536039?v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Scott Ames",
+      "id": "scottames",
+      "source": "github",
+      "website": "https://ames.sh",
+      "image": "https://avatars.githubusercontent.com/u/8071752?u=d66ecf5d4a8d8cdd3cc6bab4c5524a0bdd0d9b21\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "sideshowbarker",
+      "id": "sideshowbarker",
+      "source": "github",
+      "website": "https://sideshowbarker.net/",
+      "image": "https://avatars.githubusercontent.com/u/194984?v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Spencer Judd",
+      "id": "scjudd",
+      "source": "github",
+      "website": "https://github.com/scjudd",
+      "image": "https://avatars.githubusercontent.com/u/167754?u=b094905c1930afc3b307f39776d5fc4250d02298\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Stefan Lüdin",
+      "id": "candril",
+      "source": "github",
+      "website": "https://github.com/candril",
+      "image": "https://avatars.githubusercontent.com/u/404352?v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Stevie Huh",
+      "id": "stephenhuh",
+      "source": "github",
+      "website": "https://stevie.sh",
+      "image": "https://avatars.githubusercontent.com/u/6165538?u=2d9fc263793ca4050bc0a76c3e6c297fd72ce71c\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Ulrich Dangel",
+      "id": "mrud",
+      "source": "github",
+      "website": "http://dangel.im",
+      "image": "https://avatars.githubusercontent.com/u/350922?v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "vosahloj",
+      "id": "vosahloj",
+      "source": "github",
+      "website": "https://github.com/vosahloj",
+      "image": "https://avatars.githubusercontent.com/u/566194?v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Will Cory",
+      "id": "roninjin10",
+      "source": "github",
+      "website": "https://github.com/roninjin10",
+      "image": "https://avatars.githubusercontent.com/u/35039927?u=94370136033f1a4d900b4857c2ae13964bf51f96\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Jeff Wainwright",
+      "id": "yowainwright",
+      "source": "github",
+      "website": "https://jeffry.in",
+      "image": "https://avatars.githubusercontent.com/u/1074042?u=81cb6e662a6d3254850200c4498ed07e7d59061e\u0026v=4",
+      "tier": "backer",
+      "monthly_usd": 1
+    },
+    {
+      "name": "Pavel Savchenko",
+      "id": "asfaltboy",
+      "source": "github",
+      "website": "https://www.deel.com",
+      "image": "https://avatars.githubusercontent.com/u/321520?v=4",
+      "tier": "backer",
+      "monthly_usd": 1
+    },
+    {
+      "name": "purajit",
+      "id": "purajit",
+      "source": "github",
+      "website": "https://purajit.com",
+      "image": "https://avatars.githubusercontent.com/u/7026198?u=5b76b661dba1677a00ae40a83f19c42250b81f5a\u0026v=4",
+      "tier": "backer",
+      "monthly_usd": 1
+    }
+  ]
+}

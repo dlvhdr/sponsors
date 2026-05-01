@@ -1,0 +1,17 @@
+# Configuration for https://github.com/goreleaser/sponsors
+github_user: dlvhdr
+opencollective_slug: dlvhdr
+
+tiers:
+  - id: innovator
+    name: TUI Innovator
+    monthly_rate: 25
+  - id: advocate
+    name: TUI Advocate
+    monthly_rate: 10
+  - id: power_user
+    name: TUI Power User
+    monthly_rate: 5
+  - id: backer
+    name: TUI Backer
+    monthly_rate: 1
