@@ -12,13 +12,13 @@
 
 <p align="center">
 {{- range $sponsors }}
-<a href="{{ .Website }}?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content={{ .Source }}" target="_blank" rel="noopener sponsored" ><img src="{{ .LogoWithSize $size }}" alt="{{ .Name }}" width="{{ $size }}" height="{{ $size }}"/></a>&nbsp;&nbsp;
+<a href="{{ .Website }}?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content={{ .Source }}" target="_blank" rel="noopener sponsored" ><img src="{{ .LogoWithSize $size }}" alt="{{ .Name }}" width="{{ $size }}"/></a>&nbsp;&nbsp;
 {{- end }}
 </p>
 {{- end -}}
 {{- end -}}
-{{- template "logo-tier" (dict "label" "TUI Innovator"  "size" 128 "sponsors" (index .ByTier "innovator"))  -}}
-{{- template "logo-tier" (dict "label" "TUI Advocate"  "size" 128 "sponsors" (index .ByTier "advocate"))  -}}
-{{- template "logo-tier" (dict "label" "TUI Power User"     "size" 96  "sponsors" (index .ByTier "power_user"))     -}}
-{{- template "logo-tier" (dict "label" "TUI Backer"   "size" 80  "sponsors" (index .ByTier "backer"))   -}}
+{{- template "logo-tier" (dict "label" "TUI Innovator"  "size" 80px "sponsors" (index .ByTier "innovator"))  -}}
+{{- template "logo-tier" (dict "label" "TUI Advocate"  "size" 80px "sponsors" (index .ByTier "advocate"))  -}}
+{{- template "logo-tier" (dict "label" "TUI Power User"     "size" 50px  "sponsors" (index .ByTier "power_user"))     -}}
+{{- template "logo-tier" (dict "label" "TUI Backer"   "size" 40px  "sponsors" (index .ByTier "backer"))   -}}
 {{ printf "" }}
