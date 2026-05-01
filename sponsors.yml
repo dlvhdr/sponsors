@@ -6,8 +6,8 @@ tiers:
   - id: innovator
     name: TUI Innovator
     monthly_rate: 25
-  - id: advocate
-    name: TUI Advocate
+  - id: visionary
+    name: TUI Visionary
     monthly_rate: 10
   - id: power_user
     name: TUI Power User
