@@ -18,14 +18,6 @@ access to/from private repositories.
 
 ## Sponsors
 
-<h3 align="center">TUI Advocate</h3>
-
-<p align="center">
-<a href="https://engineering.tryarchitect.com?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/179040529?s=80&v=4" alt="Architect" width="80"/></a>&nbsp;&nbsp;
-<a href="https://mariozechner.at?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/514052?s=80&u=86324f7b9775af9867e7135e19213716baaeba59&v=4" alt="Mario Zechner" width="80"/></a>&nbsp;&nbsp;
-<a href="http://steipete.me?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/58493?s=80&u=95a4fccef3d341039661c427695691a664e333ba&v=4" alt="Peter Steinberger" width="80"/></a>&nbsp;&nbsp;
-</p>
-
 <h3 align="center">TUI Power User</h3>
 
 <p align="center">
