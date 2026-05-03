@@ -18,6 +18,14 @@ access to/from private repositories.
 
 ## Sponsors
 
+<h3 align="center">TUI Visionary</h3>
+
+<p align="center">
+<a href="https://engineering.tryarchitect.com?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/179040529?s=128&v=4" alt="Architect" width="128"/></a>&nbsp;&nbsp;
+<a href="https://mariozechner.at?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/514052?s=128&u=86324f7b9775af9867e7135e19213716baaeba59&v=4" alt="Mario Zechner" width="128"/></a>&nbsp;&nbsp;
+<a href="http://steipete.me?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/58493?s=128&u=95a4fccef3d341039661c427695691a664e333ba&v=4" alt="Peter Steinberger" width="128"/></a>&nbsp;&nbsp;
+</p>
+
 <h3 align="center">TUI Power User</h3>
 
 <p align="center">
@@ -26,6 +34,7 @@ access to/from private repositories.
 <a href="https://bjg.io?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/1212?s=50&u=9af0530b0e65983da61672445f974432cc1ca8ea&v=4" alt="Brian Gianforcaro" width="50"/></a>&nbsp;&nbsp;
 <a href="https://github.com/cdxn?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/2151520?s=50&u=eb74f479693b7f172506e678a169a34ead03796b&v=4" alt="cdxn" width="50"/></a>&nbsp;&nbsp;
 <a href="https://github.com/Hidetoxin?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/4011421?s=50&u=89f4268038fd8e67d535d23422272b20515a5134&v=4" alt="Fernando Becerra Méndez" width="50"/></a>&nbsp;&nbsp;
+<a href="https://allthingsembedded.com?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/5116453?s=50&u=c78d2a70040698f609075e45656d68e96a68a4a1&v=4" alt="Javier Alvarez" width="50"/></a>&nbsp;&nbsp;
 <a href="https://github.com/kenosando?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/13559092?s=50&u=efb2ab2cd3c739182f76876e2e88a369ac71d65b&v=4" alt="Ken Sanders" width="50"/></a>&nbsp;&nbsp;
 <a href="https://rollans.sh?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/4101096?s=50&u=8330a195570652f1bcd39e89bc5571ee41b15386&v=4" alt="Luke Rollans" width="50"/></a>&nbsp;&nbsp;
 <a href="https://github.com/mchisolm0?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/39521893?s=50&u=2ab5b762d1573b0aecc776a30a93cc8ab04fdbad&v=4" alt="Matthew Chisolm" width="50"/></a>&nbsp;&nbsp;
@@ -39,7 +48,7 @@ access to/from private repositories.
 <a href="https://github.com/candril?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/404352?s=50&v=4" alt="Stefan Lüdin" width="50"/></a>&nbsp;&nbsp;
 <a href="https://stevie.sh?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/6165538?s=50&u=2d9fc263793ca4050bc0a76c3e6c297fd72ce71c&v=4" alt="Stevie Huh" width="50"/></a>&nbsp;&nbsp;
 <a href="http://dangel.im?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/350922?s=50&v=4" alt="Ulrich Dangel" width="50"/></a>&nbsp;&nbsp;
-<a href="https://github.com/vosahloj?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/566194?s=50&v=4" alt="vosahloj" width="50"/></a>&nbsp;&nbsp;
+<a href="https://github.com/vosahloj?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/566194?s=50&u=0bca2b2bfa091749aa09df75d2d588de1fdb42b8&v=4" alt="vosahloj" width="50"/></a>&nbsp;&nbsp;
 <a href="https://github.com/roninjin10?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/35039927?s=50&u=94370136033f1a4d900b4857c2ae13964bf51f96&v=4" alt="Will Cory" width="50"/></a>&nbsp;&nbsp;
 </p>
 

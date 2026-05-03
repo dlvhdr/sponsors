@@ -6,8 +6,8 @@
       "monthly_rate": 25
     },
     {
-      "id": "advocate",
-      "name": "TUI Advocate",
+      "id": "visionary",
+      "name": "TUI Visionary",
       "monthly_rate": 10
     },
     {
@@ -28,7 +28,7 @@
       "source": "github",
       "website": "https://engineering.tryarchitect.com",
       "image": "https://avatars.githubusercontent.com/u/179040529?v=4",
-      "tier": "advocate",
+      "tier": "visionary",
       "monthly_usd": 10
     },
     {
@@ -37,7 +37,7 @@
       "source": "github",
       "website": "https://mariozechner.at",
       "image": "https://avatars.githubusercontent.com/u/514052?u=86324f7b9775af9867e7135e19213716baaeba59\u0026v=4",
-      "tier": "advocate",
+      "tier": "visionary",
       "monthly_usd": 10
     },
     {
@@ -46,7 +46,7 @@
       "source": "github",
       "website": "http://steipete.me",
       "image": "https://avatars.githubusercontent.com/u/58493?u=95a4fccef3d341039661c427695691a664e333ba\u0026v=4",
-      "tier": "advocate",
+      "tier": "visionary",
       "monthly_usd": 10
     },
     {
@@ -91,6 +91,15 @@
       "source": "github",
       "website": "https://github.com/Hidetoxin",
       "image": "https://avatars.githubusercontent.com/u/4011421?u=89f4268038fd8e67d535d23422272b20515a5134\u0026v=4",
+      "tier": "power_user",
+      "monthly_usd": 5
+    },
+    {
+      "name": "Javier Alvarez",
+      "id": "Javier-varez",
+      "source": "github",
+      "website": "https://allthingsembedded.com",
+      "image": "https://avatars.githubusercontent.com/u/5116453?u=c78d2a70040698f609075e45656d68e96a68a4a1\u0026v=4",
       "tier": "power_user",
       "monthly_usd": 5
     },
@@ -216,7 +225,7 @@
       "id": "vosahloj",
       "source": "github",
       "website": "https://github.com/vosahloj",
-      "image": "https://avatars.githubusercontent.com/u/566194?v=4",
+      "image": "https://avatars.githubusercontent.com/u/566194?u=0bca2b2bfa091749aa09df75d2d588de1fdb42b8\u0026v=4",
       "tier": "power_user",
       "monthly_usd": 5
     },
