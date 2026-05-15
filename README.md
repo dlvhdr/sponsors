@@ -22,7 +22,6 @@ access to/from private repositories.
 
 <p align="center">
 <a href="https://engineering.tryarchitect.com?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/179040529?s=128&v=4" alt="Architect" width="128"/></a>&nbsp;&nbsp;
-<a href="https://mariozechner.at?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/514052?s=128&u=86324f7b9775af9867e7135e19213716baaeba59&v=4" alt="Mario Zechner" width="128"/></a>&nbsp;&nbsp;
 <a href="http://steipete.me?utm_source=dlvhdr&utm_medium=sponsor&utm_campaign=homepage&utm_content=github" target="_blank" rel="noopener sponsored" ><img src="https://avatars.githubusercontent.com/u/58493?s=128&u=95a4fccef3d341039661c427695691a664e333ba&v=4" alt="Peter Steinberger" width="128"/></a>&nbsp;&nbsp;
 </p>
 

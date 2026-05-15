@@ -32,15 +32,6 @@
       "monthly_usd": 10
     },
     {
-      "name": "Mario Zechner",
-      "id": "badlogic",
-      "source": "github",
-      "website": "https://mariozechner.at",
-      "image": "https://avatars.githubusercontent.com/u/514052?u=86324f7b9775af9867e7135e19213716baaeba59\u0026v=4",
-      "tier": "visionary",
-      "monthly_usd": 10
-    },
-    {
       "name": "Peter Steinberger",
       "id": "steipete",
       "source": "github",
