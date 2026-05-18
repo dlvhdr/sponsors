@@ -149,15 +149,6 @@
       "monthly_usd": 5
     },
     {
-      "name": "SacredTexts",
-      "id": "SacredTexts",
-      "source": "github",
-      "website": "https://github.com/SacredTexts",
-      "image": "https://avatars.githubusercontent.com/u/65536039?v=4",
-      "tier": "power_user",
-      "monthly_usd": 5
-    },
-    {
       "name": "Scott Ames",
       "id": "scottames",
       "source": "github",
