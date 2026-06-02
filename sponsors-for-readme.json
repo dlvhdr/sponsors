@@ -86,15 +86,6 @@
       "monthly_usd": 5
     },
     {
-      "name": "Javier Alvarez",
-      "id": "Javier-varez",
-      "source": "github",
-      "website": "https://allthingsembedded.com",
-      "image": "https://avatars.githubusercontent.com/u/5116453?u=c78d2a70040698f609075e45656d68e96a68a4a1\u0026v=4",
-      "tier": "power_user",
-      "monthly_usd": 5
-    },
-    {
       "name": "Ken Sanders",
       "id": "kenosando",
       "source": "github",
@@ -226,15 +217,6 @@
       "source": "github",
       "website": "https://jeffry.in",
       "image": "https://avatars.githubusercontent.com/u/1074042?u=81cb6e662a6d3254850200c4498ed07e7d59061e\u0026v=4",
-      "tier": "backer",
-      "monthly_usd": 1
-    },
-    {
-      "name": "Pavel Savchenko",
-      "id": "asfaltboy",
-      "source": "github",
-      "website": "https://www.deel.com",
-      "image": "https://avatars.githubusercontent.com/u/321520?v=4",
       "tier": "backer",
       "monthly_usd": 1
     },
