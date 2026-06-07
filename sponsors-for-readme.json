@@ -131,15 +131,6 @@
       "monthly_usd": 5
     },
     {
-      "name": "Ryne Flood",
-      "id": "ryneflood",
-      "source": "github",
-      "website": "https://github.com/ryneflood",
-      "image": "https://avatars.githubusercontent.com/u/1847226?u=ff62cad70c6b582ff729cf6a4cb92999aae1121b\u0026v=4",
-      "tier": "power_user",
-      "monthly_usd": 5
-    },
-    {
       "name": "Scott Ames",
       "id": "scottames",
       "source": "github",
