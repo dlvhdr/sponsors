@@ -23,6 +23,15 @@
   ],
   "sponsors": [
     {
+      "name": "Owen Cabalceta",
+      "id": "denopink",
+      "source": "github",
+      "website": "https://github.com/denopink",
+      "image": "https://avatars.githubusercontent.com/u/12867159?u=61c67cd6aab705e030389253a7c326384a6c6a1b\u0026v=4",
+      "tier": "innovator",
+      "monthly_usd": 25
+    },
+    {
       "name": "Architect",
       "id": "architect-eng",
       "source": "github",
