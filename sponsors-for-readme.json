@@ -32,15 +32,6 @@
       "monthly_usd": 25
     },
     {
-      "name": "Architect",
-      "id": "architect-eng",
-      "source": "github",
-      "website": "https://engineering.tryarchitect.com",
-      "image": "https://avatars.githubusercontent.com/u/179040529?v=4",
-      "tier": "visionary",
-      "monthly_usd": 10
-    },
-    {
       "name": "Peter Steinberger",
       "id": "steipete",
       "source": "github",
