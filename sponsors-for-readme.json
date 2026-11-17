@@ -149,15 +149,6 @@
       "monthly_usd": 5
     },
     {
-      "name": "vosahloj",
-      "id": "vosahloj",
-      "source": "github",
-      "website": "https://github.com/vosahloj",
-      "image": "https://avatars.githubusercontent.com/u/566194?u=0bca2b2bfa091749aa09df75d2d588de1fdb42b8\u0026v=4",
-      "tier": "power_user",
-      "monthly_usd": 5
-    },
-    {
       "name": "Will Cory",
       "id": "roninjin10",
       "source": "github",
