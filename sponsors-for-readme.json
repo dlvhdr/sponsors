@@ -32,15 +32,6 @@
       "monthly_usd": 25
     },
     {
-      "name": "Ole Aasen",
-      "id": "aasen",
-      "source": "github",
-      "website": "https://www.oleaasen.com",
-      "image": "https://avatars.githubusercontent.com/u/484133?u=f44b9b9d9309b6a80fa52458fef32c5a1d4dee17\u0026v=4",
-      "tier": "visionary",
-      "monthly_usd": 10
-    },
-    {
       "name": "Peter Steinberger",
       "id": "steipete",
       "source": "github",
